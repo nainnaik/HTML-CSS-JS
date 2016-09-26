@@ -48,8 +48,7 @@
 
 			}
 			.content{
-				position: relative;				
-				
+				position: relative;					
 				padding:5%;		
 
 			}
@@ -85,6 +84,10 @@
 			}
 			#div3{
 				width:98%;
+				position:relative;
+				margin:1% ;
+				padding:5%;
+				
 			}
 		}
 		/*a desktop version */
